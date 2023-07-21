@@ -1,5 +1,4 @@
 # notebooks
-
 Set of scratchpads used for learning stuff.
 
 The main purpose of this repo is to store some of the projects
